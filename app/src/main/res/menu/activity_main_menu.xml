@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/main_menu_change_pin"
+        android:id="@+id/mainMenuChangePin"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="@string/main_menu_export"
+        android:id="@+id/mainMenuExport"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="@string/main_menu_import"
+        android:id="@+id/mainMenuImport"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="@string/main_menu_clear"
+        android:id="@+id/mainMenuClear"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/mainMenuAdd"
+        android:title="@string/main_menu_add"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

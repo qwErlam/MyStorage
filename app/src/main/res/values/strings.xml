@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyStorage</string>
+    <string name="main_menu_change_pin">Change Pin</string>
+    <string name="main_menu_export">Export</string>
+    <string name="main_menu_import">Import</string>
+    <string name="main_menu_clear">Clear</string>
+    <string name="main_menu_add">Add</string>
+    <string name="add_menu_done">Add</string>
+
+    <string name="resource">Resource</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="description">Description</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="mode_auth">Unlock with your pin code</string>
+    <string name="mode_create">Create code</string>
+    <string name="mode_change_old">Enter your old code</string>
+    <string name="mode_change_new">Create new code</string>
+    <string name="mode_again">Please input code again</string>
+
+
+</resources>
